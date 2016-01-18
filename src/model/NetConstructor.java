@@ -1,4 +1,4 @@
-package Base;
+package model;
 
 import Graph.*;
 
