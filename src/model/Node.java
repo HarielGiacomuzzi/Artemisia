@@ -39,14 +39,6 @@ public class Node {
 	}
 	
 	/**
-	 * adds a new reference to a previous node, all the nodes activations added as input will be used
-	 * in order to calculate this node activation. 
-	 */
-	public void addInput(Node n){
-		this.inputs.add(n);
-	}
-	
-	/**
 	 * Calculates the pre ativation function of this node.
 	 * @return the sum of the inputs multiplied by the weight
 	 */
