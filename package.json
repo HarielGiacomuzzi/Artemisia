@@ -1,0 +1,23 @@
+{
+    "name": "artemisia"
+    , "version": "1.0.0"
+    , "description": "An app to create, edit, visualize and train neural networks"
+    , "main": "index.js"
+    , "scripts": {
+        "start": "node index.js"
+        , "test": "echo \"Error: no test specified\" && exit 1"
+    }
+    , "repository": {
+        "type": "git"
+        , "url": "git+https://github.com/HarielGiacomuzzi/Artemisia.git"
+    }
+    , "author": "Hariel Giacomuzzi"
+    , "license": "ISC"
+    , "bugs": {
+        "url": "https://github.com/HarielGiacomuzzi/Artemisia/issues"
+    }
+    , "homepage": "https://github.com/HarielGiacomuzzi/Artemisia#readme"
+    , "dependencies": {
+        "express": "^4.14.0"
+    }
+}
